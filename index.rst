@@ -4,7 +4,7 @@ How Do I Use WhatsApp in a Web Browser - Step-by-Step Guide
 
 .. image:: get-start-button.png
    :alt: WhatsApp Web
-   :target:  
+   :target: https://fm.ci?aHR0cHM6Ly93aGF0c2FwcHdlYmhlbHAtY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA== 
    :align: center
    
 
@@ -23,8 +23,7 @@ Setting up WhatsApp Web is quick and easy. Just follow these steps:
 6. Tap **Link a Device** and scan the QR code on your computer screen.
 7. You're now connected! WhatsApp Web will instantly sync your chats.
 
-.. note::
-   Your phone must stay connected to the internet while using WhatsApp Web.
+
 
 Key Features of WhatsApp Web
 ----------------------------
@@ -51,7 +50,7 @@ Yes, WhatsApp Web uses end-to-end encryption, just like the mobile app. However,
 - On your browser: Click the three dots > Log out
 - On mobile: Go to Linked Devices > Tap the session > Log out
 
-💡 Tips for Using WhatsApp Web More Effectively
+Tips for Using WhatsApp Web More Effectively
 -----------------------------------------------
 
 - 📎 Drag and drop files into the chat window for easy sharing
@@ -70,8 +69,7 @@ If WhatsApp Web isn't working properly, try the following:
 - **Unsupported Browser**: Switch to Chrome, Firefox, or Edge.
 - **Firewall/Network Block**: Some office or school networks block WhatsApp Web.
 
-.. tip::
-   🧑‍💻 **Real-life Scenario**: A student was unable to connect on campus Wi-Fi due to firewall restrictions. Switching to mobile hotspot fixed the issue instantly.
+**Real-life Scenario**: A student was unable to connect on campus Wi-Fi due to firewall restrictions. Switching to mobile hotspot fixed the issue instantly.
 
 My Experience with WhatsApp Web
 -------------------------------
