@@ -80,18 +80,23 @@ Frequently Asked Questions (FAQs)
 ---------------------------------
 
 **Can I use WhatsApp Web without scanning the QR code every time?**  
+
 Yes. Check the “Keep me signed in” box during login to stay logged in. Also, enabling multi-device support lets you stay connected even if your phone goes offline temporarily.
 
 **Does WhatsApp Web support voice or video calls?**  
+
 The browser version does not. For voice and video calls, download the WhatsApp Desktop app for Windows or macOS.
 
 **Is WhatsApp Web secure on public computers?**  
+
 It’s safer to avoid using public/shared computers. If necessary, always log out after use and avoid “keep me signed in.”
 
 **Can I send photos and documents on WhatsApp Web?**  
+
 Yes, you can drag and drop or upload images, videos, PDFs, and other files directly in chats.
 
 **How do I log out of WhatsApp Web?**  
+
 Log out via the browser menu or from your phone’s Linked Devices section.
 
 Conclusion
