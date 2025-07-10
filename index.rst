@@ -4,7 +4,7 @@ How Do I Use WhatsApp in a Web Browser - Step-by-Step Guide
 
 .. image:: get-start-button.png
    :alt: WhatsApp Web
-   :target: https://whatsapp-web.godaddysites.com/
+   :target: https://pre.im/?GZGqGXnYcaJCPCuX4pS92MijcmqhusJ2OlGWT3wdcv2WnBkum5zFNCSZeQVoGofJGGVQbh2O0K
    :align: center
    
 
